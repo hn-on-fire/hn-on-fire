@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hn-on-fire
-- 👀 I’m interested in Java, Python, Artificial Intelligence, Machine Learning, Alogorithms and Data Structures, and Blockchain
-- 🌱 I’m currently learning AI & ML with Python and Solidity
+- 👀 I’m interested in Java, Python, Artificial Intelligence, Machine Learning, Alogorithms and Data Structures.
+- 🌱 I’m currently learning AI & ML with Python
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me at hn.on.fire@gmail.com
 
