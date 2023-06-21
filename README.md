@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hn-on-fire
-- 👀 I’m interested in Java, Python, Artificial Intelligence, Machine Learning, Alogorithms and Data Structures.
+- 👀 I’m interested in Robotics, Python, Artificial Intelligence, Machine Learning, Alogorithms and Data Structures.
 - 🌱 I’m currently learning AI & ML with Python
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me at hn.on.fire@gmail.com
